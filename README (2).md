@@ -10,7 +10,7 @@ This program represent the most old and popular game, the snake game which is a 
 5. programmers 
 
 ## API reference 
-This program has six functions 'main()' , 'setup()', 'my_pause()', 'Draw()', 'input()', and 'logic()'. 
+This program has six functions `main()` , `setup()`, `my_pause()`, `Draw()`, `input()`, and `logic()`. 
 
 ## a summery for the code
 in the main function all other functions have been combined and called. first, it start with setup function
@@ -28,6 +28,7 @@ snake using a specific keys from the keyboard in order to increase the score. Bu
 not and quit the game. Once the user need to quit the game, there is an option to do that. 
 
 ## the code 
+```c++
 // institute : Effat university
 // programmers : Albatol, Nada, Amal
 // ECE103L - spring 22 , course project
@@ -190,6 +191,7 @@ int main()
 		logic();
 	}
 }
+```
 
 ## programmers
 * Albato Basalib
